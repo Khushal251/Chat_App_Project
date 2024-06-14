@@ -7,7 +7,9 @@ import Message from '../Message/Message';
 import ScrollToBottom from 'react-scroll-to-bottom';
 import closeIcon from "../../images/closeIcon.png"
 
-const ENDPOINT = 'http://localhost:4500';
+// const ENDPOINT = 'http://localhost:4500';
+const ENDPOINT = 'chat-app-project-e6n1.vercel.app';
+
 
 let socket;
 
